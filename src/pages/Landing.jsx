@@ -6,7 +6,6 @@ const LandingPage = () => {
   return (
     <div className="landing-page">
       <header className="header">
-        
         <button className="login-button">Login</button>
       </header>
 
