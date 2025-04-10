@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
-/* Photographer Page Styles */
+
 .photographer-page {
     background: url("../../public/assets/kfupm-bg.jpg") center center no-repeat;
     background-size: cover;
@@ -25,7 +25,7 @@
     background-color: rgba(0, 0, 0, 0.3);
 }
 
-/* Header Styles */
+
 .photographer-header {
     position: relative;
     z-index: 1;
@@ -71,7 +71,7 @@
     color: #00693A;
 }
 
-/* Rest of the existing photographer page styles remain the same */
+
 .photographer-content {
     position: relative;
     z-index: 1;

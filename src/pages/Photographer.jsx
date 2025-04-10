@@ -7,7 +7,7 @@ const PhotographerPage = () => {
       <header className="photographer-header">
         <div></div>
         
-        {/* Centered Logo and Welcome */}
+        
         <div className="header-center">
           <img 
             src="/assets/kfupm-logo.png" 
@@ -17,14 +17,14 @@ const PhotographerPage = () => {
           <h1 className="welcome-text">Welcome Photographer!</h1>
         </div>
 
-        {/* Logout Button */}
+        
         <button className="logout-button">
           Log Out
         </button>
       </header>
 
       <div className="photographer-content">
-        {/* Map Section */}
+        
         <div className="map-container">
           <h2 className="map-title">Select Photo Location</h2>
           <div className="google-map">
@@ -36,7 +36,7 @@ const PhotographerPage = () => {
           </div>
         </div>
 
-        {/* Upload Section */}
+        
         <div className="upload-section">
           <form className="upload-form">
             <div className="file-upload-group">
